@@ -73,7 +73,9 @@ screenshots of the project here.
 
 ## 👨‍💻 Author
 
-Rishi
+Rishi sharma
+intern id = CITS2084
+CODETECH IT SOLUTION
 
 ---
 
